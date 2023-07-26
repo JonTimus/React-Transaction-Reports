@@ -1,0 +1,39 @@
+/* Table Styles */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th,
+td {
+  padding: 8px;
+  text-align: left;
+  border: 1px solid #ccc;
+}
+
+thead {
+  background-color: #f2f2f2;
+}
+
+/* Input Styles */
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* RewardPage-specific Styles */
+div#rewardPage {
+  margin-top: 20px;
+}
+
+/* TransactionPage-specific Styles */
+div#transactionPage {
+  margin-top: 20px;
+}
